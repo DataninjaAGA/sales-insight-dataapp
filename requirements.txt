@@ -1,0 +1,11 @@
+# Interfaz web interactiva y componentes del dashboard.
+streamlit>=1.57,<2.0
+
+# Carga, limpieza, transformación y agregación de datos.
+pandas>=2.2,<4.0
+
+# Visualizaciones interactivas.
+plotly>=6.0,<7.0
+
+# Lectura de archivos Excel .xlsx desde pandas.
+openpyxl>=3.1.5,<4.0

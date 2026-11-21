@@ -1,0 +1,17 @@
+# Entorno virtual y cachés de Python.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Archivos locales, credenciales y configuración privada.
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Archivos del sistema operativo y del editor.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
